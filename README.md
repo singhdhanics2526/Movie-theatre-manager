@@ -1,2 +1,3 @@
 # Movie-theatre-manager
 This is a python program for movie theatre management. 
+It is a simple modular program.
